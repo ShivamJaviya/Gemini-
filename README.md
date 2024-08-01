@@ -1,5 +1,7 @@
-# Gemini Clone Project
+# Search Engine by Gemini API
 
+
+ 
 Welcome to the Gemini Clone Project! This project aims to replicate the core functionalities of the Gemini protocol, focusing on simplicity and privacy. This README provides all the necessary information to get started with the project, including setup instructions, features, and more.
 
 ## Table of Contents
